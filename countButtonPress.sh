@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 0 RED, 1 BLUE, 2 RED, 3 BLUE, 4 BUZZER, 5 BUTTON
+
 
 a=0
 read=$(gpio read 5)
